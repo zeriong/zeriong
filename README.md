@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github.com/zeriong/zeriong/blob/output/github-snake-dark.svg" width="100%">
 <!--
 **zeriong/zeriong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
