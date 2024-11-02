@@ -1,5 +1,5 @@
 ## 💻 Developer Zeriong
-<img src="https://github.com/zeriong/zeriong/blob/output/github-snake-dark.svg" width="100%">
+
 
 - 🌱 I’m currently learning Dart, Flutter Java, spring boot,
 <!--
@@ -10,3 +10,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/zeriong/zeriong/blob/output/github-snake-dark.svg" width="100%">
