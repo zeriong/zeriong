@@ -1,8 +1,9 @@
 ## 💻 Developer Zeriong
 
 
-### 🌱 I’m currently learning<br>
-  => Dart, Flutter Java, spring boot,
+### 🌱 I’m currently learning {<br>
+ - Dart, Flutter, Java, spring boot,
+  ### }
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
