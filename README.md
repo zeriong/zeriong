@@ -13,15 +13,14 @@
 - ⚡ Fun fact: ...
 -->
 
-<br>
-<br>
+<br><br>
 
 ## 🐧 GIT ANIMALS
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/zeriong"/>
 </a>
 
-<br>
-<br>
+<br><br>
 
+## 🐍 GIT SNAKE
 <img src="https://github.com/zeriong/zeriong/blob/output/github-snake-dark.svg" width="100%">
