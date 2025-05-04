@@ -1,9 +1,13 @@
 ## 💻 Developer Zeriong
 
+### 🎯 I'm focusing on... 
+ - Flutter, React, DevOps( jenkins, NginX, PM2... )
 
-### 🌱 I’m currently learning {<br>
+<br>
+
+### 🌱 I’m currently learning
  - Dart, Flutter, Java, spring boot,
-  ### }
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
