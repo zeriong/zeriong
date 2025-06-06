@@ -1,3 +1,4 @@
+
 <br><br>
 
 <p align="center">
@@ -7,33 +8,79 @@
 
 <br><br>
 
-<!-- Fun GIF Header -->
+<!-- =================== Intro Typing Banner - END - =================== -->
+
+
+
+
+<!-- =================== GIF Header =================== -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Fun & Cool GIF" width="500px"/>
 </p>
 
 <br><br><br>
 
+---
+
+<!-- =================== Focusing on =================== -->
+
+## 🛠️ Stacks
+
+<br>
+
+<h3>⚙️ Core</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js" height="30"/>
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
+</p>
+
+<br>
+
+### 🔧 Basic
 
 
-## 🎯 I'm focusing on...
+<br><br><br>
+
+---
+
+<!-- =================== Focusing on =================== -->
+
+## 🎯 Focusing on
  - Flutter, React, DevOps( jenkins, NginX, PM2... )
 
 <br><br><br>
 
+---
+
+<!-- =================== Currently learning =================== -->
+
+## ✍️ Currently learning
 
 
-### 🌱 I’m currently learning
- - Dart, Flutter, Java, spring boot,
 
 <br><br><br>
 
+---
+
+<!-- =================== Git Animals =================== -->
+
 ## 🐧 GIT ANIMALS
+
+<br>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/zeriong"/>
 </a>
 
-<br><br>
+<br><br><br>
+
+---
+
+<!-- =================== Git Snake =================== -->
 
 ## 🐍 GIT SNAKE
 <img src="https://github.com/zeriong/zeriong/blob/output/github-snake-dark.svg" width="100%">
