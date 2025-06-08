@@ -114,17 +114,20 @@
 <!-- =================== Focusing on =================== -->
 
 ## 🎯 Focusing on
- - Flutter, React, DevOps( jenkins, NginX, PM2... )
 
-<br><br><br>
+<!-- just gap -->
+<p>&nbsp;</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="28"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" height="28"/>
 
-<!-- =================== Currently learning =================== -->
+  <br>
 
-## ✍️ Currently learning
-
-
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="28"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="28"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" height="28"/>
+</p>
 
 <br><br><br>
 
