@@ -112,10 +112,9 @@
 ---
 
 <!-- =================== Focusing on =================== -->
-
+<!--
 ## 🎯 Focusing on
 
-<!-- just gap -->
 <p>&nbsp;</p>
 
 <p align="center">
@@ -133,21 +132,26 @@
 
 ---
 
+-->
+
 <!-- =================== Git Animals =================== -->
 
 ## 🐧 GIT ANIMALS
 
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/zeriong"/>
-</a>
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/zeriong"/>
+  </a>
+</p>
 
 <br><br><br>
 
----
-
 <!-- =================== Git Snake =================== -->
+<!--
+---
 
 ## 🐍 GIT SNAKE
 <img src="https://github.com/zeriong/zeriong/blob/output/github-snake-dark.svg" width="100%">
+-->
