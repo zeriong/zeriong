@@ -35,7 +35,7 @@
 
 <!-- =================== Focusing on =================== -->
 
-## 🛠️ Core & Beyond Stacks
+## 🛠️ Stacks
 
 <!-- just gap -->
 <p>&nbsp;</p>
