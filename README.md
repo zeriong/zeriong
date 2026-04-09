@@ -30,6 +30,10 @@
 - orval-labs/orval [#3191](https://github.com/orval-labs/orval/pull/3191) ✅ 라우트 배열에서 path param 뒤에 dash가 올 때 발생하는 구문 오류 수정
 - orval-labs/orval [#3196](https://github.com/orval-labs/orval/pull/3196) ✅ Angular 다중 content-type HTTP 요청에서 query params 누락 수정
 - orval-labs/orval [#3198](https://github.com/orval-labs/orval/pull/3198) ✅ path params 및 tags-split 환경에서 mutationInvalidates 코드 생성 오류 수정
+- orval-labs/orval [#3207](https://github.com/orval-labs/orval/pull/3207) ✅ CLI에 `--fail-on-warnings` 플래그 추가하여 경고 시 종료 지원
+- orval-labs/orval [#3206](https://github.com/orval-labs/orval/pull/3206) ✅ components만 있는 OpenAPI 스펙에서 Zod 스키마 생성 지원
+- orval-labs/orval [#3205](https://github.com/orval-labs/orval/pull/3205) ✅ MSW mock handler에서 void union 타입 처리 수정
+- orval-labs/orval [#3204](https://github.com/orval-labs/orval/pull/3204) ✅ schemas barrel import 경로에 fileExtension 누락 수정
 
 
 <!--
