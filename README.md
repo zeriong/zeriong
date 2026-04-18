@@ -43,6 +43,7 @@
   - orval-labs/orval [#3221](https://github.com/orval-labs/orval/pull/3221) ✅ OpenAPI 3.0 boolean exclusiveMinimum/Maximum mock 생성 오류 수정
   - orval-labs/orval [#3229](https://github.com/orval-labs/orval/pull/3229) ✅ propertyNames.const 지원으로 typed Record 키 타입 생성 정확도 개선
   - orval-labs/orval [#3230](https://github.com/orval-labs/orval/pull/3230) ✅ OpenAPI 3.1 nullable object 배열에서 mock properties 누락 수정
+  - orval-labs/orval [#3237](https://github.com/orval-labs/orval/pull/3237) ✅ mutationInvalidates params에 `{ literal: string }` 문법 추가로 문자열 리터럴 지원
 </details>
 
 <details>
