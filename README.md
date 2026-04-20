@@ -44,6 +44,11 @@
   - orval-labs/orval [#3229](https://github.com/orval-labs/orval/pull/3229) ✅ propertyNames.const 지원으로 typed Record 키 타입 생성 정확도 개선
   - orval-labs/orval [#3230](https://github.com/orval-labs/orval/pull/3230) ✅ OpenAPI 3.1 nullable object 배열에서 mock properties 누락 수정
   - orval-labs/orval [#3237](https://github.com/orval-labs/orval/pull/3237) ✅ mutationInvalidates params에 `{ literal: string }` 문법 추가로 문자열 리터럴 지원
+  - orval-labs/orval [#3222](https://github.com/orval-labs/orval/pull/3222) ✅ fetch 응답 body를 content-type 기반으로 파싱하도록 수정 (JSON.parse 고정 제거)
+  - orval-labs/orval [#3238](https://github.com/orval-labs/orval/pull/3238) ✅ angular-query 클라이언트에 usePrefetch 지원 추가
+  - orval-labs/orval [#3247](https://github.com/orval-labs/orval/pull/3247) ✅ Zod date-time 포맷에 `{ offset: true }` 기본값 적용으로 RFC3339 호환 수정
+  - orval-labs/orval [#3248](https://github.com/orval-labs/orval/pull/3248) ✅ binary 스키마의 contentMediaType 업그레이드 시 ArrayBuffer mock 생성 수정
+  - orval-labs/orval [#3249](https://github.com/orval-labs/orval/pull/3249) ✅ Angular httpResource 출력을 tags/tags-split 모드에서 tag별 스코핑 수정
 </details>
 
 <details>
