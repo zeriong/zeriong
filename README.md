@@ -50,6 +50,9 @@
   - orval-labs/orval [#3248](https://github.com/orval-labs/orval/pull/3248) ✅ binary 스키마의 contentMediaType 업그레이드 시 ArrayBuffer mock 생성 수정
   - orval-labs/orval [#3249](https://github.com/orval-labs/orval/pull/3249) ✅ Angular httpResource 출력을 tags/tags-split 모드에서 tag별 스코핑 수정
   - orval-labs/orval [#3239](https://github.com/orval-labs/orval/pull/3239) ✅ OpenAPI validation 실패를 error 대신 warning으로 처리 (fastapi.sse 등 지원)
+  - orval-labs/orval [#3267](https://github.com/orval-labs/orval/pull/3267) ✅ 안전한 samples에 `clean: true` 활성화 및 레이아웃 규칙 문서화
+  - orval-labs/orval [#3293](https://github.com/orval-labs/orval/pull/3293) ✅ Zod에서 multipart/urlencoded 요청의 Body 스키마 생성 수정
+  - orval-labs/orval [#3290](https://github.com/orval-labs/orval/pull/3290) ✅ 생성된 invalidate 함수에 queryOptions mutator 적용 (useInvalidate 누락 수정)
 </details>
 
 <details>
