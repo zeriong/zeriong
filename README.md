@@ -65,6 +65,9 @@
   - orval-labs/orval [#3336](https://github.com/orval-labs/orval/pull/3336) ✅ 재귀적 external $ref 인라이닝 시 순환 참조 해소
   - orval-labs/orval [#3339](https://github.com/orval-labs/orval/pull/3339) ✅ Zod object defaults에서 `as const`로 리터럴 타입 보존
   - orval-labs/orval [#3345](https://github.com/orval-labs/orval/pull/3345) ✅ TypeDoc skipErrorChecking을 생성된 entry point로 스코핑하여 TS6133 오류 수정
+  - orval-labs/orval [#3363](https://github.com/orval-labs/orval/pull/3363) ✅ setQueriesData를 통한 캐시 데이터 일괄 업데이트 지원
+  - orval-labs/orval [#3375](https://github.com/orval-labs/orval/pull/3375) ✅ spec validation 전 input.override.transformer 적용 수정
+  - orval-labs/orval [#3405](https://github.com/orval-labs/orval/pull/3405) ✅ fetch 클라이언트에서 urlEncodeParameters 옵션 지원 복원
 </details>
 
 <details>
