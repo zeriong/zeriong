@@ -1,16 +1,16 @@
-## 🧑🏻‍💻 ZERIONG
+## 안녕하세요, 전제룡입니다.
 
 <br>
 
-안녕하세요, UX/DX지향 개발자 ZERIONG 입니다.
 
-불편함이 친숙함으로 전환되는 순간을 즐기며
 
-개발을 이어가고 있습니다.
+사용자와 동료의 불편함이 친숙함으로 전환되는 순간을 즐기며 개발하고 있어요.
+
+그리고 그 변화를 측정하고, 기록하며 주도적으로 개선할 수 있는 환경을 선호합니다.
 
 <br>
 
-## 🛠️ Stacks
+## Stacks
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
@@ -19,7 +19,7 @@
 
 <br>
 
-## 🤝 Open Source Contribution
+## Open Source Contribution
 
 <details>
   <summary id="datail">
